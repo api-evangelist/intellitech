@@ -36,7 +36,7 @@ x-enrichment: >-
   OpenAPI, SDK, MCP, scopes, or event artifacts could be captured. Enrichment is
   limited to verified identity, website link properties, and mechanical domain
   security probes.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
