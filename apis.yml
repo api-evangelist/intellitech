@@ -11,6 +11,17 @@ description: >-
   portfolio company in the semiconductor sector. The company publishes product,
   legal, and customer-account pages on its website but does not expose a public
   developer API, OpenAPI definition, SDKs, or MCP surface.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
